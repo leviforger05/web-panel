@@ -5,21 +5,21 @@
 
 module.exports = {
   // App Config
-  STORE_NAME: "Alip Cloud",
-  CONTACT_WHATSAPP: "https://wa.me/6281249703469",
+  STORE_NAME: "LEVI FORGER",
+  CONTACT_WHATSAPP: "https://wa.me/62895326246663",
 
   // Links Configuration
   CHANNEL_LINK: "https://whatsapp.com/channel/0029VbBzq5JH5JLtaYovYB0b",
-  BOT_GROUP_LINK: "https://chat.whatsapp.com/ChrOPk4QYToJiFTAA0V7bk?mode=gi_t",
-  STORE_GROUP_LINK: "https://chat.whatsapp.com/ChrOPk4QYToJiFTAA0V7bk?mode=gi_t",
-  CONTACT_ADMIN: "https://wa.me/6281249703469",
+  BOT_GROUP_LINK: "https://chat.whatsapp.com/D9fnbIWZQgiExre5ZVAHn7",
+  STORE_GROUP_LINK: "https://chat.whatsapp.com/D9fnbIWZQgiExre5ZVAHn7",
+  CONTACT_ADMIN: "https://wa.me/628953262466663",
 
   // Website Assets
-  WEBSITE_LOGO: "https://img2.pixhost.to/images/5707/694518103_alip-1770904754646.jpg",
-  WEBSITE_BANNER: "https://img2.pixhost.to/images/5686/694183513_alip-1770827267727.jpg",
+  WEBSITE_LOGO: "https://autoresbot.com/tmp_files/01ec0776-3a64-4bc1-bcad-a7b6fadd99ce.jpg",
+  WEBSITE_BANNER: "https://autoresbot.com/tmp_files/1830887a-34d8-41cc-80da-f7985a99b7f6.jpg",
 
   // Admin
-  ADMIN_PASSWORD: "alifalfrlk3c3",
+  ADMIN_PASSWORD: "leviadmin",
 
   // Panel Prices (per bulan)
   PRICES: {
@@ -35,8 +35,8 @@ module.exports = {
 
   // Payment Gateway
   PAYMENT: {
-    SLUG: "alif-alfarel",
-    API_KEY: "22Xdnk2uXiGerChxMKMZrWmlldnwM8hp"
+    SLUG: "levi-store",
+    API_KEY: "Hfe3ejX1NnlAvqq1Tmn2kl4HoVTTU1ur"
   },
 
   // System
@@ -52,8 +52,8 @@ module.exports = {
 
   // Pterodactyl Config
   PTERODACTYL: {
-    DOMAIN: "https://",
-    API_KEY: "ptla_",
+    DOMAIN: "https://leviforger.raflydev.my.id",
+    API_KEY: "ptla_3mZMcJvDcFwxcZtK8Hc27c7zRRcRPHgY1tdCSLaL1TS",
     NEST_ID: 5,
     EGG_ID: 15,
     LOCATION_ID: 1
@@ -61,7 +61,7 @@ module.exports = {
 
   // Node Server
   NODE: {
-    HOST: "ip vps",
-    ROOT_PASS: "pw vps"
+    HOST: "152.42.166.163",
+    ROOT_PASS: "RAFCINR16C8"
   }
 };
