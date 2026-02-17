@@ -45,7 +45,7 @@ module.exports = {
   // GitHub Storage
   GITHUB: {
     TOKEN: "gh token",
-    OWNER: "userneme gh",
+    OWNER: "leviforger",
     REPO: "web-panel",
     FILE_PATH: "dataserver.json"
   },
