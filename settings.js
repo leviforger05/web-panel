@@ -15,7 +15,7 @@ module.exports = {
   CONTACT_ADMIN: "https://wa.me/628953262466663",
 
   // Website Assets
-  WEBSITE_LOGO: "https://autoresbot.com/tmp_files/01ec0776-3a64-4bc1-bcad-a7b6fadd99ce.jpg",
+  WEBSITE_LOGO: "https://img2.pixhost.to/images/5820/696348425_alip-1771311069254.jpg",
   WEBSITE_BANNER: "https://autoresbot.com/tmp_files/1830887a-34d8-41cc-80da-f7985a99b7f6.jpg",
 
   // Admin
