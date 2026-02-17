@@ -5,7 +5,7 @@
 
 module.exports = {
   // App Config
-  STORE_NAME: "LEVI FORGER",
+  STORE_NAME: "PANEL LEVI STORE",
   CONTACT_WHATSAPP: "https://wa.me/62895326246663",
 
   // Links Configuration
