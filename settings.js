@@ -61,7 +61,7 @@ module.exports = {
 
   // Node Server
   NODE: {
-    HOST: "152.42.166.163",
+    HOST: "146.190.101.200",
     ROOT_PASS: "RAFCINR16C8"
   }
 };
